@@ -1,0 +1,17 @@
+{
+  "name": "es6-react-setup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server"
+  },
+  "author": "xiangxu",
+  "license": "ISC",
+  "dependencies": {
+    "material-ui": "^0.15.4",
+    "react": "^15.3.1",
+    "react-dom": "^15.3.1",
+    "react-tap-event-plugin": "^1.0.0"
+  }
+}
